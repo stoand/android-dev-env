@@ -1,5 +1,7 @@
 # Android Dev Env
 
+Install the Termux app on Android
+
 ## Clone this repository into the home dir
 
 ```
